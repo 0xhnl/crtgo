@@ -4,9 +4,9 @@ crtgo is a powerful tool designed for passive subdomain enumeration by fetching 
 
 # Features
 
-Passive Subdomain Enumeration: Fetch certificate fingerprints from crt.sh for a specified domain.
-Streamlined Usage: Simple command-line syntax for seamless operation.
-Flexible Output: Easily export and analyze the fetched certificate fingerprints.
+- Passive Subdomain Enumeration: Fetch certificate fingerprints from crt.sh for a specified domain.
+- Streamlined Usage: Simple command-line syntax for seamless operation.
+- Flexible Output: Easily export and analyze the fetched certificate fingerprints.
 
 # Install
 
