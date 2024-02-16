@@ -13,7 +13,7 @@ Flexible Output: Easily export and analyze the fetched certificate fingerprints.
 You can conveniently install crtgo using the following command:
 
 ```bash
-go install -v github.com/0xhnl/crtgo
+go install -v github.com/0xhnl/crtgo@latest
 ```
 
 # Usage
